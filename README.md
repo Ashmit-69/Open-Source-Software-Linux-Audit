@@ -63,22 +63,35 @@ The aim of this project is not only to understand how the kernel functions, but 
 
 ### Setup
 
+#### Step 1: Navigate to Project Folder
 cd "/mnt/c/Users/HP/OneDrive/Desktop/Open Source Software (Linux)/Scripts"
+
+#### Step 2: Fix Windows Line Endings
 sed -i 's/\r$//' *.sh
+
+#### Step 3: Grant Execution Permissions
 chmod +x *.sh
 
 ------------------------------------------------------------
 
 ### Running Scripts
 
+#### Script 1: System Identity Report
 ./System\ Identity\ Report.sh
+
+#### Script 2: FOSS Package Inspector
 ./FOSS\ Package\ Inspector.sh
+
+#### Script 3: Disk and Permission Auditor
 ./Disk\ and\ permission\ auditor.sh
+
+#### Script 4: Log File Analyzer
 ./Log\ File\ Analyzer.sh
 
-Optional:
+#### Optional: Run with Keyword
 ./Log\ File\ Analyzer.sh warning
 
+#### Script 5: Manifesto Generator
 ./Manifesto.sh
 
 ------------------------------------------------------------
