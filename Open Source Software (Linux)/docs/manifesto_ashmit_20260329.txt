@@ -1,0 +1,52 @@
+============================================================
+              MY OPEN SOURCE MANIFESTO
+         Inspired by the Linux Kernel Community
+============================================================
+
+Date: March 29, 2026
+Author: ashmit
+System: Ashmit-HPVictus
+Kernel: 6.6.87.2-microsoft-standard-WSL2
+
+--- MY OPEN SOURCE PHILOSOPHY ---
+
+Open source means software that anyone can access, understand, and improve, allowing people to learn from each other and build better solutions together.
+
+--- MY DEPENDENCE ON OPEN SOURCE ---
+
+Every day,I rely on 'multiple open-source tools including Linux (via WSL) for system-level work, Git for version control, and Visual Studio Code for coding and development.' and countless other open-source
+tools. These tools are possible because developers share their work openly, allowing others to learn from it, improve it, and build upon it.
+
+--- MY PLEDGE TO THE COMMUNITY ---
+
+I commit to building and sharing 'tools that make technology more accessible, such as beginner-friendly utilities, automation scripts, and simple systems that help others learn and grow.' openly for others to learn from and build upon. I will contribute my code, my time, and my knowledge.
+
+
+--- MY VIEW OF THE COMMUNITY ---
+
+The open-source community is 'Collaborative', built on collaboration and shared progress.
+
+--- LESSONS FROM THE KERNEL COMMUNITY ---
+
+From Linus Torvalds and thousands of kernel contributors:
+
+1. "Release early, release often" - Don't wait for perfection
+2. "Given enough eyeballs, all bugs are shallow" - Trust the community
+3. "Talk is cheap. Show me the code" - Let your work speak
+4. "Be nice, don't be a jerk" - Community matters
+
+--- MY COMMITMENT ---
+
+I pledge to:
+• Use open-source software where possible
+• Share my code and knowledge
+• Help newcomers to open source
+• Contribute back to projects I use
+
+I stand on the shoulders of giants - Torvalds, Stallman, and
+thousands of unnamed contributors. I offer my shoulders to
+those who come after me.
+
+============================================================
+Generated on: March 29, 2026
+============================================================
