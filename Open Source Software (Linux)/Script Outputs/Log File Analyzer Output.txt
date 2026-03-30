@@ -1,0 +1,28 @@
+============================================================
+         KERNEL LOG ANALYZER
+============================================================
+
+Using log file: /var/log/kern.log
+Analyzing for keyword: error
+
+============================================================
+SUMMARY
+============================================================
+Keyword 'error' found: 5 times
+
+⚠ 5 error entries found. Review below.
+
+--- LAST 10 MATCHING ENTRIES ---
+2026-03-29T05:32:01.562586+00:00 Ashmit-HPVictus kernel: RAS: Correctable Errors collector initialized.
+2026-03-29T05:40:35.290930+00:00 Ashmit-HPVictus kernel: RAS: Correctable Errors collector initialized.
+2026-03-29T06:33:46.127859+00:00 Ashmit-HPVictus kernel: RAS: Correctable Errors collector initialized.
+2026-03-29T18:34:55.817315+00:00 Ashmit-HPVictus kernel: RAS: Correctable Errors collector initialized.
+2026-03-30T14:29:44.991684+00:00 Ashmit-HPVictus kernel: RAS: Correctable Errors collector initialized.
+
+--- RECOMMENDATIONS ---
+1. Check hardware: sudo dmesg | grep -i hardware
+2. Check memory: free -h
+3. Check disk: df -h
+4. Check services: systemctl list-units --failed
+
+============================================================

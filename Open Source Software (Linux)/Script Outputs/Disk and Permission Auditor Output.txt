@@ -1,0 +1,24 @@
+============================================================
+         KERNEL DIRECTORY AUDIT REPORT
+============================================================
+
+--- DIRECTORY AUDIT ---
+
+[sudo] password for ashmit:
+/boot                => drwxr-xr-x root root                => 4.0K
+/proc                => dr-xr-xr-x root root                => Virtual Filesystem
+/sys                 => dr-xr-xr-x root root                => Virtual Filesystem
+/lib/modules         => drwxr-xr-x root root                => 186M
+/usr/src             => drwxr-xr-x root root                => 4.0K
+/etc/modprobe.d      => drwxr-xr-x root root                => 28K
+/etc/modules-load.d  => drwxr-xr-x root root                => 4.0K
+
+--- BOOT DIRECTORY DETAILS ---
+Kernel images:
+
+Initramfs images:
+
+--- MODULE STATISTICS ---
+  6.6.87.2-microsoft-standard-WSL2: 924 modules
+
+============================================================

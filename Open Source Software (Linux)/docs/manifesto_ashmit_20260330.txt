@@ -1,0 +1,48 @@
+============================================================
+              MY OPEN SOURCE MANIFESTO
+         Inspired by the Linux Kernel Community
+============================================================
+
+Date: March 30, 2026
+Author: ashmit
+System: Ashmit-HPVictus
+Kernel: 6.6.87.2-microsoft-standard-WSL2
+
+--- MY OPEN SOURCE PHILOSOPHY ---
+
+Open source means software that anyone can access, understand, and improve, allowing people to learn from each other and build better solutions together.
+
+--- MY DEPENDENCE ON OPEN SOURCE ---
+
+Every day, I rely on 'multiple open-source tools including Linux (via WSL) for system-level work, Git for version control, and Visual Studio Code for coding and development.' and countless other open-source
+tools. These exist because developers chose to share their
+work freely, building on the contributions of others.
+
+--- MY PLEDGE TO THE COMMUNITY ---
+
+The open-source community is 'Collaborative'. Collaboration
+creates better software than isolated development.
+
+I commit to building and sharing 'tools that make technology more accessible, such as beginner-friendly utilities, automation scripts, and simple systems that help others learn and grow.' freely with the
+world. I will contribute my code, my time, and my knowledge.
+
+--- LESSONS FROM THE KERNEL COMMUNITY ---
+
+From Linus Torvalds and thousands of kernel contributors:
+
+1. "Release early, release often"
+2. "Given enough eyeballs, all bugs are shallow"
+3. "Talk is cheap. Show me the code"
+4. "Be nice, don't be a jerk"
+
+--- MY COMMITMENT ---
+
+I pledge to:
+• Use open-source software where possible
+• Share my code and knowledge
+• Help newcomers to open source
+• Contribute back to projects I use
+
+============================================================
+Generated on: March 30, 2026
+============================================================

@@ -1,0 +1,39 @@
+============================================================
+         OPEN SOURCE SYSTEM IDENTITY REPORT
+============================================================
+
+--- KERNEL INFORMATION ---
+Kernel Version      : 6.6.87.2-microsoft-standard-WSL2
+Kernel Name         : Linux
+Machine Architecture: x86_64
+Operating System    : GNU/Linux
+
+--- DISTRIBUTION INFORMATION ---
+Distribution        : Ubuntu 24.04.4 LTS
+Hostname            : Ashmit-HPVictus
+Current User        : ashmit
+Home Directory      : /home/ashmit
+
+--- SYSTEM STATUS ---
+System Uptime       : 0 minutes
+System Load         :  0.00, 0.00, 0.00
+Current Date/Time   : 2026-03-30 14:30:13
+
+--- MEMORY INFORMATION ---
+Total Memory        : 7.6Gi
+Available Memory    : 7.1Gi
+
+--- KERNEL BUILD INFO ---
+Build Date          : (gcc (GCC) 11.2.0, GNU
+GCC Version         : Not available
+
+--- OPEN SOURCE LICENSE ---
+The Linux Kernel is licensed under GNU General Public License v2 (GPLv2)
+
+The Four Freedoms:
+  1. Freedom to run the program for any purpose
+  2. Freedom to study and modify the source code
+  3. Freedom to redistribute copies
+  4. Freedom to distribute modified versions
+
+============================================================
